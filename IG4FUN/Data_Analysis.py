@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
 
 # Funzione per analizzare i dati dei follower (esempio di analisi statistica)

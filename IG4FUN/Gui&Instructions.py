@@ -1,8 +1,21 @@
 import tkinter as tk
 from tkinter import messagebox
-import json
-from instagram_api import get_user_id_from_profile, get_follower_data
-from data_analysis import analyze_follower_data
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+try:
+    from instagram_api import get_user_id_from_profile, get_follower_data
+except ImportError:
+    def get_user_id_from_profile(username):
+        return "Errore: modulo 'instagram_api' non trovato."
+    def get_follower_data(token, user_id):
+        return "Errore: modulo 'instagram_api' non trovato."
+
+try:
+    from data_analysis import analyze_follower_data
+except ImportError:
+    def analyze_follower_data(data):
+        return "Modulo 'data_analysis' non trovato. Analisi non disponibile."
 
 # Funzione di login e raccolta dati tramite il token
 def on_login():
