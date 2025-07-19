@@ -1,0 +1,135 @@
+Andria, Puglia
+309
+37,91%
+Rome, Lazio
+93
+11,41%
+Bari, Puglia
+41
+5,03%
+Barletta, Puglia
+37
+4,54%
+Trani, Puglia
+36
+4,42%
+Bisceglie, Puglia
+33
+4,05%
+Corato, Puglia
+30
+3,68%
+Turin, Piedmont
+25
+3,07%
+Bologna, Emilia-Romagna
+23
+2,82%
+Florence, Tuscany
+23
+2,82%
+Milan, Lombardia
+19
+2,33%
+Matera, Basilicata
+9
+1,1%
+Taranto, Puglia
+9
+1,1%
+Brescia, Lombardia
+8
+0,98%
+Palermo, Sicilia
+8
+0,98%
+Genova, Liguria
+8
+0,98%
+Altamura, Puglia
+8
+0,98%
+Molfetta, Puglia
+5
+0,61%
+Parma, Emilia-Romagna
+5
+0,61%
+Cagliari, Sardinia
+5
+0,61%
+Foggia, Puglia
+5
+0,61%
+Conversano, Puglia
+4
+0,49%
+Putignano, Puglia
+4
+0,49%
+Casoria, Campania
+4
+0,49%
+Padua, Veneto
+4
+0,49%
+San Giovanni Rotondo, Puglia
+4
+0,49%
+Bitonto, Puglia
+3
+0,37%
+Ferrara, Emilia-Romagna
+3
+0,37%
+Giovinazzo, Puglia
+3
+0,37%
+Naples, Campania
+3
+0,37%
+Monopoli, Puglia
+3
+0,37%
+Berlin, Berlin
+3
+0,37%
+Ruvo di Puglia, Puglia
+3
+0,37%
+Pescara, Abruzzo
+3
+0,37%
+Verona, Veneto
+3
+0,37%
+Terlizzi, Puglia
+3
+0,37%
+Casamassima, Puglia
+3
+0,37%
+Cesena, Emilia-Romagna
+3
+0,37%
+Modugno, Puglia
+3
+0,37%
+Perugia, Umbria
+3
+0,37%
+Margherita di Savoia, Puglia
+3
+0,37%
+Modena, Emilia-Romagna
+3
+0,37%
+Lecce, Puglia
+3
+0,37%
+Arezzo, Tuscany
+3
+0,37%
+San Severo, Puglia
+2
+0,25%
